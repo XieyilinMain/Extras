@@ -3,7 +3,7 @@
     "description": "Modern, Rust-based terminal with AI built in so you and your team can build great software, faster.",
     "homepage": "https://www.warp.dev/",
     "license": {
-        "identifier": "Proprietary",
+        "identifier": " AGPL-3.0,MIT",
         "url": "https://www.warp.dev/terms-of-service"
     },
     "architecture": {
